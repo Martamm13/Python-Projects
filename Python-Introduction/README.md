@@ -7,5 +7,3 @@
 - File Sorter: A script to automatically sort files into folders by type.
 
 - Automated Crypto Web Scraper: A bot that retrieves the latest crypto prices and data from the web.
-
-- Regular Expressions: Scripts that demonstrate how to use regex for searching and manipulating text.
